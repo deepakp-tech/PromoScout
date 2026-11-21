@@ -1,0 +1,12 @@
+.env
+.cache/
+__pycache__/
+*.pyc
+.venv/
+# The input pack is Kuku's confidential content - never commit it
+data/*
+!data/.gitkeep
+.streamlit/secrets.toml
+# Results contain script text from the input pack - keep them private
+outputs/*
+!outputs/.gitkeep
