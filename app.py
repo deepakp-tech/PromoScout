@@ -372,7 +372,7 @@ if files:
         show = {n: e for n, e in load_show(info["dir"]).items() if n in chosen}
         total = len(chosen) + min(rate_n, found) + 6
         done = {"n": 0, "find": 0, "judge": 0}
-        bar = st.progress(0.0, text="Starting…")
+        progress = st.progress(0.0, text="Starting…")
 
         def on_update(node, upd):
             done["n"] += 1
@@ -384,7 +384,7 @@ if files:
                 text = f"Rated clip {done['judge']}"
             else:
                 text = STEP_TEXT.get(node, "Working…")
-            bar.progress(min(done["n"] / total, 0.99), text=text)
+            progress.progress(min(done["n"] / total, 0.99), text=text)
 
         stem = re.sub(r"[^A-Za-z0-9]+", "_", Path(files[0].name).stem)[:30].strip("_") or "show"
         out_dir = OUTPUTS / f"{stem}_ep{lo}-{hi}_{time.strftime('%Y%m%d_%H%M%S')}"
@@ -392,10 +392,10 @@ if files:
         try:
             final = graph.run(info["dir"], str(out_dir), show=show, on_update=on_update)
         except Exception as e:  # keep the message readable
-            bar.empty()
+            progress.empty()
             st.error(f"Something went wrong: {e}")
             st.stop()
-        bar.progress(1.0, text=f"Done in {time.time() - t0:.0f} seconds")
+        progress.progress(1.0, text=f"Done in {time.time() - t0:.0f} seconds")
         st.session_state["out_dir"] = final["out_dir"]
 
 if out := st.session_state.get("out_dir"):
