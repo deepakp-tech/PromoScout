@@ -10,3 +10,4 @@ data/*
 # Results contain script text from the input pack - keep them private
 outputs/*
 !outputs/.gitkeep
+.DS_Store
