@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Slap to Freeze",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B002",
+        "end_beat": "E01-B017"
+      }
+    ],
+    "hook_beat": "E01-B002",
+    "cliffhanger_beat": "E01-B017",
+    "hook": "Riya slaps Maya hard across the face.",
+    "cliffhanger": "Maya freezes as Arjun's voice threatens her.",
+    "why": "A visceral slap instantly grabs attention, then the tension spikes as Maya discovers the incriminating letter and freezes when Arjun confronts her, leaving the conflict unresolved.",
+    "self_score": 9,
+    "cid": "E01-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Shattered Truth",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B000",
+        "end_beat": "E01-B014"
+      }
+    ],
+    "hook_beat": "E01-B000",
+    "cliffhanger_beat": "E01-B014",
+    "hook": "A crystal glass shatters, drawing everyone's eyes.",
+    "cliffhanger": "Maya gasps the initials 'A.M.'\u2014Arjun Mehra\u2014on the incriminating file.",
+    "why": "The opening glass smash is a startling visual hook, leading straight into Maya's discovery of the damning file and the shocking reveal of Arjun's initials, ending on a tense question.",
+    "self_score": 8,
+    "cid": "E01-P2",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Wrist Grab to Shaking Pen",
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B000",
+        "end_beat": "E02-B014"
+      }
+    ],
+    "hook_beat": "E02-B000",
+    "cliffhanger_beat": "E02-B014",
+    "hook": "Arjun grabs Maya's wrist, snatches the letter.",
+    "cliffhanger": "Maya's trembling hand hovers over the signature line, undecided.",
+    "why": "Starts with a visceral power grab, escalates through betrayal and the impossible contract, and ends on Maya's agonizing decision, delivering a complete, high\u2011stakes arc in under a minute.",
+    "self_score": 9,
+    "cid": "E02-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Contract Offer Shock",
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B007",
+        "end_beat": "E02-B014"
+      }
+    ],
+    "hook_beat": "E02-B007",
+    "cliffhanger_beat": "E02-B014",
+    "hook": "Arjun slams a marriage contract onto Maya's table.",
+    "cliffhanger": "Maya's trembling hand hovers over the signature line, undecided.",
+    "why": "The sudden contract toss grabs attention, quickly explains the high\u2011stakes bargain, and cuts at Maya's hesitant hand, making a tight 24\u2011second teaser that compels viewers to watch.",
+    "self_score": 8,
+    "cid": "E02-P2",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Truth & Father Reveal",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B001",
+        "end_beat": "E03-B015"
+      }
+    ],
+    "hook_beat": "E03-B001",
+    "cliffhanger_beat": "E03-B015",
+    "hook": "Is this where you threaten me again, husband?",
+    "cliffhanger": "Papa?",
+    "why": "Starts with Maya\u2019s accusing line, builds tension with Arjun\u2019s scar confession, and ends on the shocking \u201cPapa?\u201d whisper, leaving the mystery of her father unresolved.",
+    "self_score": 9,
+    "cid": "E03-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Mask Threat & Scar Secret",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B004",
+        "end_beat": "E03-B014"
+      }
+    ],
+    "hook_beat": "E03-B004",
+    "cliffhanger_beat": "E03-B014",
+    "hook": "Who did that to you?",
+    "cliffhanger": "The masked man pulls off his mask. Maya's face goes pale.",
+    "why": "Hooks with Maya\u2019s gasp about Arjun\u2019s scar, escalates with the masked gunman\u2019s taunt, and cuts on the mask being ripped off, leaving viewers desperate to know who\u2019s behind it.",
+    "self_score": 8,
+    "cid": "E03-P2",
+    "source": "episode",
+    "attempts": 0
+  }
+]

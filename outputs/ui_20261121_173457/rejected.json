@@ -1,0 +1,22 @@
+[
+  {
+    "cid": "E01-P2",
+    "title": "Betrayal & Fired",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B030",
+        "end_beat": "E01-B038",
+        "start": 43.98,
+        "end": 62.02,
+        "start_ts": "00:43.98",
+        "end_ts": "01:02.02"
+      }
+    ],
+    "duration": 18.04,
+    "errors": [
+      "too short: 18.0s (min 20s) - extend the clip"
+    ],
+    "reject_reason": "failed checks after refine"
+  }
+]

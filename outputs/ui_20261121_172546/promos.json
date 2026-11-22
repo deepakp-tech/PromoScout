@@ -1,0 +1,126 @@
+[
+  {
+    "rank": 1,
+    "post_first": true,
+    "score": 84.0,
+    "cid": "E01-P1",
+    "source": "episode",
+    "title": "Slap to Freeze",
+    "duration": 44.0,
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B002",
+        "end_beat": "E01-B017",
+        "start": 5.6,
+        "end": 49.6,
+        "start_ts": "00:05.60",
+        "end_ts": "00:49.60"
+      }
+    ],
+    "hook": "Riya slaps Maya hard across the face.",
+    "cliffhanger": "Maya freezes as Arjun's voice threatens her.",
+    "why": "A visceral slap instantly grabs attention, then the tension spikes as Maya discovers the incriminating letter and freezes when Arjun confronts her, leaving the conflict unresolved.",
+    "rank_reason": "hook 9/10, cliffhanger 8/10, standalone 7/10; from ep 1 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 9,
+      "cliffhanger_score": 8,
+      "standalone_score": 7,
+      "spoiler_risk": 4,
+      "verdict": "post",
+      "issues": [
+        "The dialogue includes several names (Riya, Maya, Arjun Mehra, Sharma) which may be slightly confusing for a first\u2011time viewer, but the visual actions help convey the stakes.",
+        "The reveal that Arjun signed the incriminating letter could be a moderate spoiler if that is the series' central twist."
+      ]
+    },
+    "hook_beat": "E01-B002",
+    "cliffhanger_beat": "E01-B017",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] <ACTION> Riya slaps Maya hard across the face.\n[+001.8s] MAYA (Quiet, Trembling): \"I'm sorry, madam. It won't happen again.\"\n[+004.6s] GUEST (Whispering): \"Isn't that the Sharma girl? Her father went to jail for fraud.\"\n[+007.9s] MAYA (Under her breath): \"He was innocent.\"\n[+009.7s] <ACTION> Arjun Mehra walks down the staircase. The room falls silent.\n[+013.0s] ARJUN MEHRA (Cold): \"Riya, enough. Clean it up and get out, girl.\"\n[+016.3s] <ACTION> Maya kneels and picks up the shards, cutting her palm.\n[+019.6s] <SFX> A drop of blood hits the marble.\n[+020.9s] <ACTION> Maya enters the study with a tray of tea. Nobody is inside.\n[+024.2s] <ACTION> She notices an open file on the desk with her father's name on it.\n[+027.5s] MAYA (Shocked): \"Rajesh Sharma... why does he have my father's case file?\"\n[+030.8s] <ACTION> She flips the page. A signed letter: 'Make sure Sharma takes the fall. - A.M.'\n[+035.1s] MAYA (Breathless): \"A.M.... Arjun Mehra.\"\n[+037.4s] <SFX> The door handle turns.\n[+038.7s] ARJUN MEHRA (O.S., Dangerous): \"What exactly do you think you're reading?\"\n[+042.0s] <ACTION> Maya freezes, the letter still in her hand."
+  },
+  {
+    "rank": 2,
+    "post_first": true,
+    "score": 76.5,
+    "cid": "E02-P1",
+    "source": "episode",
+    "title": "Wrist Grab to Shaking Pen",
+    "duration": 46.2,
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B000",
+        "end_beat": "E02-B014",
+        "start": 0.0,
+        "end": 46.2,
+        "start_ts": "00:00.00",
+        "end_ts": "00:46.20"
+      }
+    ],
+    "hook": "Arjun grabs Maya's wrist, snatches the letter.",
+    "cliffhanger": "Maya's trembling hand hovers over the signature line, undecided.",
+    "why": "Starts with a visceral power grab, escalates through betrayal and the impossible contract, and ends on Maya's agonizing decision, delivering a complete, high\u2011stakes arc in under a minute.",
+    "rank_reason": "hook 6/10, cliffhanger 9/10, standalone 8/10; from ep 2 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 6,
+      "cliffhanger_score": 9,
+      "standalone_score": 8,
+      "spoiler_risk": 4,
+      "verdict": "maybe",
+      "issues": [
+        "Opening relies on a physical grab but no dialogue or shocking line until 2.8\u202fs; may not stop scrolling instantly.",
+        "The introduction of a second character (Riya) mid\u2011clip could confuse viewers who lack context.",
+        "The marriage\u2011for\u2011freedom deal is a central plot twist; revealing it may reduce curiosity to watch the full episode."
+      ]
+    },
+    "hook_beat": "E02-B000",
+    "cliffhanger_beat": "E02-B014",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] <ACTION> Arjun grabs Maya's wrist and takes the letter.\n[+002.8s] ARJUN MEHRA (Low): \"Curiosity ruined your father. Don't let it ruin you.\"\n[+006.6s] MAYA (Defiant): \"You destroyed my family. I will tell everyone.\"\n[+009.9s] ARJUN MEHRA (Smiling): \"Tell them. Nobody believes a thief's daughter.\"\n[+013.2s] <ACTION> He tears the letter in half and drops it in the fireplace.\n[+016.5s] MAYA (Desperate): \"Why? What did he ever do to you?\"\n[+019.3s] ARJUN MEHRA (Quiet): \"He saw something he shouldn't have. Just like you.\"\n[+022.6s] <ACTION> Arjun throws a contract onto the table in front of Maya.\n[+025.4s] ARJUN MEHRA (Flat): \"Marry me for one year. Your father gets released next week.\"\n[+029.2s] MAYA (Stunned): \"Marry you? You must be insane.\"\n[+031.5s] RIYA MEHRA (Entering, Outraged): \"Brother! You're marrying the maid?\"\n[+034.3s] ARJUN MEHRA (Cold): \"Stay out of this, Riya.\"\n[+036.6s] MAYA (Slowly): \"If I sign, my father walks free?\"\n[+039.4s] ARJUN MEHRA (Nodding): \"And if you refuse, he never leaves that cell alive.\"\n[+043.2s] <ACTION> Maya picks up the pen. Her hand shakes over the signature line."
+  },
+  {
+    "rank": 3,
+    "post_first": true,
+    "score": 73.0,
+    "cid": "E03-P1",
+    "source": "episode",
+    "title": "Truth & Father Reveal",
+    "duration": 41.7,
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B001",
+        "end_beat": "E03-B015",
+        "start": 3.3,
+        "end": 45.0,
+        "start_ts": "00:03.30",
+        "end_ts": "00:45.00"
+      }
+    ],
+    "hook": "Is this where you threaten me again, husband?",
+    "cliffhanger": "Papa?",
+    "why": "Starts with Maya\u2019s accusing line, builds tension with Arjun\u2019s scar confession, and ends on the shocking \u201cPapa?\u201d whisper, leaving the mystery of her father unresolved.",
+    "rank_reason": "hook 8/10, cliffhanger 9/10, standalone 6/10, spoiler risk 7/10; from ep 3 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 8,
+      "cliffhanger_score": 9,
+      "standalone_score": 6,
+      "spoiler_risk": 7,
+      "verdict": "maybe",
+      "issues": [
+        "The clip relies on prior knowledge of relationships (husband, father) which may confuse new viewers.",
+        "The reveal that the masked man might be Maya's father is a major plot twist; exposing it risks spoiling the show."
+      ]
+    },
+    "hook_beat": "E03-B001",
+    "cliffhanger_beat": "E03-B015",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] MAYA (Bitter): \"Is this where you threaten me again, husband?\"\n[+002.8s] ARJUN MEHRA (Tired): \"No. Tonight I tell you the truth.\"\n[+005.6s] <ACTION> He removes his shirt. A long scar crosses his back.\n[+008.9s] MAYA (Gasping): \"Who did that to you?\"\n[+010.7s] ARJUN MEHRA (Quiet): \"The same man who forced me to sign that letter.\"\n[+014.0s] MAYA (Confused): \"You... didn't frame my father?\"\n[+016.3s] ARJUN MEHRA (Looking away): \"I signed it to keep him alive. Otherwise they'd have killed him.\"\n[+020.6s] <SFX> Glass shatters downstairs. A woman screams.\n[+022.4s] <ACTION> Arjun and Maya rush down. Riya lies unconscious at the bottom of the stairs.\n[+025.7s] MAYA (Panicked): \"Riya! Riya, wake up!\"\n[+028.0s] <ACTION> A masked man stands in the doorway holding a gun.\n[+030.8s] MASKED MAN (Calm): \"Hello, Arjun. Did you really think marrying her would hide her from me?\"\n[+035.1s] ARJUN MEHRA (Shielding Maya): \"Run, Maya. Now.\"\n[+036.9s] <ACTION> The masked man pulls off his mask. Maya's face goes pale.\n[+040.2s] MAYA (Whispering): \"Papa?\""
+  }
+]

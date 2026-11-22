@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Slap & Secret Heir",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B034",
+        "end_beat": "E01-B038"
+      },
+      {
+        "episode": 1,
+        "start_beat": "E01-B058",
+        "end_beat": "E01-B064"
+      }
+    ],
+    "hook_beat": "E01-B034",
+    "cliffhanger_beat": "E01-B064",
+    "hook": "Victoria slaps Maya hard across the face.",
+    "cliffhanger": "A sharp string sting swells as Maya learns she inherits the hotel, leaving the revelation hanging.",
+    "why": "A visceral slap grabs attention, then the shocking inheritance reveal leaves viewers craving the fallout.",
+    "self_score": 9,
+    "cid": "E01-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Betrayal & Fired",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B030",
+        "end_beat": "E01-B038"
+      }
+    ],
+    "hook_beat": "E01-B030",
+    "cliffhanger_beat": "E01-B038",
+    "hook": "Victoria gloating: \"Ethan and I are engaged, sweetie. Did he forget to mention it?\"",
+    "cliffhanger": "Victoria snarls, \"You're fired. Get out of my hotel,\" leaving Maya's fate uncertain.",
+    "why": "The shocking engagement confession hooks viewers, and the abrupt firing cuts off the tension, urging them to watch what happens next.",
+    "self_score": 8,
+    "cid": "E01-P2",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Boardroom Betrayal",
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B028",
+        "end_beat": "E02-B042"
+      }
+    ],
+    "hook_beat": "E02-B028",
+    "cliffhanger_beat": "E02-B042",
+    "hook": "Ethan smugly declares, \"Once the board names you owner, we sell the hotel and split the money.\"",
+    "cliffhanger": "A tense heartbeat pounds as Victoria forces Maya to remove her glasses, leaving her true identity hanging in the air.",
+    "why": "Starts with a bold, greedy threat that instantly grabs attention, then builds tension through the conspirators' plan, ending on a suspenseful reveal of Maya's exposure.",
+    "self_score": 9,
+    "cid": "E02-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Ethan Exposed",
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B024",
+        "end_beat": "E02-B034"
+      }
+    ],
+    "hook_beat": "E02-B024",
+    "cliffhanger_beat": "E02-B034",
+    "hook": "Maya gasps, \"Ethan?\" as she realizes the only suspect who entered Victoria's suite.",
+    "cliffhanger": "A sudden electronic beep blares from Maya's phone, hinting that her cover is about to be blown.",
+    "why": "The shock of naming Ethan creates an instant hook, the conversation builds intrigue, and the abrupt beep leaves viewers craving to see what happens next.",
+    "self_score": 8,
+    "cid": "E02-P2",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Heir Reveal & Dark Secret",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B015",
+        "end_beat": "E03-B047"
+      }
+    ],
+    "hook_beat": "E03-B015",
+    "cliffhanger_beat": "E03-B047",
+    "hook": "Maya strides into the boardroom in a white suit, declaring herself the majority owner.",
+    "cliffhanger": "Ethan whispers that Richard Sterling didn't die of a heart attack and the killer is still in the building.",
+    "why": "Starts with a dramatic entrance that grabs attention, builds tension with power play, and ends on a fresh mystery about the grandfather's death.",
+    "self_score": 9,
+    "cid": "E03-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Ethan's Last Plea",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B037",
+        "end_beat": "E03-B047"
+      }
+    ],
+    "hook_beat": "E03-B037",
+    "cliffhanger_beat": "E03-B047",
+    "hook": "The boardroom door bursts open as Ethan slips in, pleading with Maya.",
+    "cliffhanger": "Ethan warns Maya that the person who killed her grandfather is still inside the hotel.",
+    "why": "Hooked by a sudden intrusion, the clip escalates with Ethan's confession and ends on a chilling revelation, leaving viewers craving the truth.",
+    "self_score": 8,
+    "cid": "E03-P2",
+    "source": "episode",
+    "attempts": 0
+  }
+]

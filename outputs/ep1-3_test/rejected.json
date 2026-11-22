@@ -1,0 +1,20 @@
+[
+  {
+    "cid": "E03-P2",
+    "title": "Command & Promise",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B058",
+        "end_beat": "E03-B100",
+        "start": 69.9,
+        "end": 122.1,
+        "start_ts": "01:09.90",
+        "end_ts": "02:02.10"
+      }
+    ],
+    "duration": 52.2,
+    "errors": [],
+    "reject_reason": "duplicate of E03-P1"
+  }
+]

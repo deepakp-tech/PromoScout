@@ -1,0 +1,225 @@
+[
+  {
+    "rank": 1,
+    "post_first": true,
+    "score": 83.0,
+    "cid": "E01-P1",
+    "source": "episode",
+    "title": "Slap & Secret Heir",
+    "duration": 20.36,
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B034",
+        "end_beat": "E01-B038",
+        "start": 51.9,
+        "end": 62.02,
+        "start_ts": "00:51.90",
+        "end_ts": "01:02.02"
+      },
+      {
+        "episode": 1,
+        "start_beat": "E01-B058",
+        "end_beat": "E01-B064",
+        "start": 88.86,
+        "end": 99.1,
+        "start_ts": "01:28.86",
+        "end_ts": "01:39.10"
+      }
+    ],
+    "hook": "Victoria slaps Maya hard across the face.",
+    "cliffhanger": "A sharp string sting swells as Maya learns she inherits the hotel, leaving the revelation hanging.",
+    "why": "A visceral slap grabs attention, then the shocking inheritance reveal leaves viewers craving the fallout.",
+    "rank_reason": "hook 9/10, cliffhanger 8/10, standalone 7/10; from ep 1 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 9,
+      "cliffhanger_score": 8,
+      "standalone_score": 7,
+      "spoiler_risk": 5,
+      "verdict": "maybe",
+      "issues": [
+        "The transition from the slap to the inheritance reveal feels abrupt; viewers may be confused about the connection between Victoria and Mr. Hale.",
+        "Revealing the full inheritance (the hotel) may be a major plot twist, raising spoiler risk.",
+        "The clip contains two separate beats (slap, then cut) which can make the narrative feel disjointed in a 20\u2011second promo."
+      ]
+    },
+    "hook_beat": "E01-B034",
+    "cliffhanger_beat": "E01-B064",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] <ACTION> Victoria slaps Maya hard across the face.\n[+001.7s] <SFX> A sharp crack echoes across the ballroom.\n[+003.2s] <CAMERA> Close-up on Maya's reddened cheek as a tear rolls down it.\n[+005.2s] <CAMERA> Close-up on Victoria, venomous.\n[+005.4s] VICTORIA (Venomous): \"That's for touching what's mine. You're fired. Get out of my hotel.\"\n--- CUT ---\n[+010.1s] MR. HALE (Grave): \"He passed away last week. And he left everything to you.\"\n[+014.8s] <CAMERA> Close-up on Maya.\n[+015.0s] MAYA (Stunned): \"Everything?\"\n[+016.2s] <CAMERA> Close-up on Mr. Hale, looking up at the hotel.\n[+016.4s] MR. HALE (Firm): \"Including that hotel.\"\n[+018.2s] <CAMERA> Push-in on Maya's face as her tears stop and her eyes harden.\n[+018.4s] <SFX> A sharp string sting swells to a cliffhanger peak."
+  },
+  {
+    "rank": 2,
+    "post_first": true,
+    "score": 70.5,
+    "cid": "E02-P2",
+    "source": "episode",
+    "title": "Ethan Exposed",
+    "duration": 20.24,
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B024",
+        "end_beat": "E02-B034",
+        "start": 49.16,
+        "end": 69.4,
+        "start_ts": "00:49.16",
+        "end_ts": "01:09.40"
+      }
+    ],
+    "hook": "Maya gasps, \"Ethan?\" as she realizes the only suspect who entered Victoria's suite.",
+    "cliffhanger": "A sudden electronic beep blares from Maya's phone, hinting that her cover is about to be blown.",
+    "why": "The shock of naming Ethan creates an instant hook, the conversation builds intrigue, and the abrupt beep leaves viewers craving to see what happens next.",
+    "rank_reason": "hook 6/10, cliffhanger 8/10, standalone 6/10; from ep 2 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 6,
+      "cliffhanger_score": 8,
+      "standalone_score": 6,
+      "spoiler_risk": 2,
+      "verdict": "maybe",
+      "issues": [
+        "Hook is just a line of dialogue; lacks a striking visual or sound that instantly grabs attention.",
+        "Multiple characters and plot points introduced quickly may confuse viewers unfamiliar with the show."
+      ]
+    },
+    "hook_beat": "E02-B024",
+    "cliffhanger_beat": "E02-B034",
+    "self_score": 8,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] MAYA (Stunned): \"Ethan?\"\n[+001.2s] <CAMERA> Medium shot of Maya dusting a side table near a half-open bedroom door.\n[+001.4s] VICTORIA (O.S., Laughing): \"She cried in the rain like a wet puppy. It was perfect.\"\n[+006.4s] <CAMERA> Close-up on Maya's hand freezing on the duster.\n[+006.6s] ETHAN (O.S., Smug): \"Once the board names you owner, we sell the hotel and split the money.\"\n[+012.4s] <CAMERA> Over-the-shoulder shot through the door gap at Victoria pouring champagne.\n[+012.6s] VICTORIA (Amused): \"And if anyone asks about the bracelet?\"\n[+015.8s] <CAMERA> Close-up on Ethan raising his glass.\n[+016.0s] ETHAN (Laughing): \"The maid stole it. Case closed.\"\n[+018.8s] <CAMERA> Insert shot of Maya's trembling hand pulling out her phone and pressing record.\n[+019.0s] <SFX> A loud electronic beep from the phone."
+  },
+  {
+    "rank": 3,
+    "post_first": true,
+    "score": 61.5,
+    "cid": "E03-P2",
+    "source": "episode",
+    "title": "Ethan's Last Plea",
+    "duration": 23.62,
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B037",
+        "end_beat": "E03-B047",
+        "start": 60.74,
+        "end": 84.36,
+        "start_ts": "01:00.74",
+        "end_ts": "01:24.36"
+      }
+    ],
+    "hook": "The boardroom door bursts open as Ethan slips in, pleading with Maya.",
+    "cliffhanger": "Ethan warns Maya that the person who killed her grandfather is still inside the hotel.",
+    "why": "Hooked by a sudden intrusion, the clip escalates with Ethan's confession and ends on a chilling revelation, leaving viewers craving the truth.",
+    "rank_reason": "hook 5/10, cliffhanger 8/10, standalone 6/10; from ep 3 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 5,
+      "cliffhanger_score": 8,
+      "standalone_score": 6,
+      "spoiler_risk": 5,
+      "verdict": "maybe",
+      "issues": [
+        "Opening relies on a door opening, which is a mild action rather than a high\u2011impact hook.",
+        "First line is exposition (\"she made me do it\") rather than a shocking statement or visual.",
+        "Maya's reply \"You loved my hotel\" is vague and may confuse viewers unfamiliar with the setting.",
+        "The clip leans heavily on back\u2011story (grandfather, Richard Sterling) that a new viewer may not grasp fully."
+      ]
+    },
+    "hook_beat": "E03-B037",
+    "cliffhanger_beat": "E03-B047",
+    "self_score": 8,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] <ACTION> The door opens behind her and Ethan slips in.\n[+002.5s] <CAMERA> Medium shot of Ethan approaching.\n[+002.7s] ETHAN (Pleading): \"Maya, she made me do it. I still love you.\"\n[+007.0s] <CAMERA> Close-up on Maya, not turning around.\n[+007.2s] MAYA (Flat): \"You loved my hotel.\"\n[+009.3s] <CAMERA> Close-up on Ethan, his face turning bitter.\n[+009.5s] ETHAN (Bitter, Low): \"You think you won? Ask Hale how your grandfather really died.\"\n[+014.2s] <CAMERA> Medium shot as Maya turns slowly from the window.\n[+014.4s] MAYA (Shaken): \"What did you say?\"\n[+016.5s] <CAMERA> Close-up on Ethan.\n[+016.7s] ETHAN (Quiet, Menacing): \"Richard Sterling didn't die of a heart attack. And the person who killed him is in this building.\""
+  },
+  {
+    "rank": 4,
+    "post_first": true,
+    "score": 61.0,
+    "cid": "E02-P1",
+    "source": "episode",
+    "title": "Boardroom Betrayal",
+    "duration": 24.1,
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B028",
+        "end_beat": "E02-B042",
+        "start": 55.78,
+        "end": 79.88,
+        "start_ts": "00:55.78",
+        "end_ts": "01:19.88"
+      }
+    ],
+    "hook": "Ethan smugly declares, \"Once the board names you owner, we sell the hotel and split the money.\"",
+    "cliffhanger": "A tense heartbeat pounds as Victoria forces Maya to remove her glasses, leaving her true identity hanging in the air.",
+    "why": "Starts with a bold, greedy threat that instantly grabs attention, then builds tension through the conspirators' plan, ending on a suspenseful reveal of Maya's exposure.",
+    "rank_reason": "hook 4/10, cliffhanger 8/10, standalone 5/10; from ep 2 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 4,
+      "cliffhanger_score": 8,
+      "standalone_score": 5,
+      "spoiler_risk": 2,
+      "verdict": "maybe",
+      "issues": [
+        "Opens with a voice\u2011over line rather than a visual action; lacks an immediate, eye\u2011catching image or sound to stop scrolling.",
+        "The opening dialogue is expository and confusing without context (board, owner, hotel sale).",
+        "Characters are introduced by name only in transcript; a viewer can't tell who is who or why they matter.",
+        "The \u201cbracelet\u201d line feels random and doesn\u2019t add clear stakes.",
+        "While the ending is a cliffhanger, the stakes (what\u2019s at risk if Maya\u2019s identity is revealed) aren\u2019t obvious to a newcomer."
+      ]
+    },
+    "hook_beat": "E02-B028",
+    "cliffhanger_beat": "E02-B042",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] ETHAN (O.S., Smug): \"Once the board names you owner, we sell the hotel and split the money.\"\n[+005.7s] <CAMERA> Over-the-shoulder shot through the door gap at Victoria pouring champagne.\n[+005.9s] VICTORIA (Amused): \"And if anyone asks about the bracelet?\"\n[+009.2s] <CAMERA> Close-up on Ethan raising his glass.\n[+009.4s] ETHAN (Laughing): \"The maid stole it. Case closed.\"\n[+012.2s] <CAMERA> Insert shot of Maya's trembling hand pulling out her phone and pressing record.\n[+012.4s] <SFX> A loud electronic beep from the phone.\n[+013.9s] <CAMERA> Close-up on Victoria's head snapping toward the door.\n[+014.1s] VICTORIA (Sharp): \"What was that?\"\n[+015.9s] <CAMERA> Wide shot as the bedroom door swings fully open.\n[+016.1s] <ACTION> Victoria stalks out and stops in front of the maid, studying her face.\n[+019.2s] <CAMERA> Close-up on Victoria, eyes narrowing.\n[+019.4s] VICTORIA (Suspicious): \"You. Take off those glasses.\"\n[+021.9s] <CAMERA> Extreme close-up on Maya's fingers trembling on the frame of her glasses.\n[+022.1s] <SFX> A pounding heartbeat rises."
+  },
+  {
+    "rank": 5,
+    "post_first": false,
+    "score": 34.5,
+    "cid": "E03-P1",
+    "source": "episode",
+    "title": "Heir Reveal & Dark Secret",
+    "duration": 58.5,
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B015",
+        "end_beat": "E03-B047",
+        "start": 25.86,
+        "end": 84.36,
+        "start_ts": "00:25.86",
+        "end_ts": "01:24.36"
+      }
+    ],
+    "hook": "Maya strides into the boardroom in a white suit, declaring herself the majority owner.",
+    "cliffhanger": "Ethan whispers that Richard Sterling didn't die of a heart attack and the killer is still in the building.",
+    "why": "Starts with a dramatic entrance that grabs attention, builds tension with power play, and ends on a fresh mystery about the grandfather's death.",
+    "rank_reason": "hook 4/10, cliffhanger 9/10, standalone 7/10; from ep 3 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 4,
+      "cliffhanger_score": 9,
+      "standalone_score": 7,
+      "spoiler_risk": 4,
+      "verdict": "reject",
+      "issues": [
+        "Opening is a slow walk-in with a vague line; no immediate shock, slap, or high\u2011stakes conflict to stop scrolling.",
+        "First 3 seconds lack a clear, attention\u2011grabbing moment; the line \"There is now\" is cryptic and doesn't convey stakes.",
+        "Clip length (~58\u202fs) is long for a TikTok/Reel promo; could be trimmed to keep momentum.",
+        "Some dialogue (e.g., \"You loved my hotel.\") may confuse viewers unfamiliar with the characters.",
+        "The early resolution of firing Victoria reduces tension before the final cliffhanger."
+      ]
+    },
+    "hook_beat": "E03-B015",
+    "cliffhanger_beat": "E03-B047",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] <ACTION> Maya walks in wearing a white suit, hair down, Mr. Hale one step behind her.\n[+003.1s] <CAMERA> Close-up on Maya, calm and cold.\n[+003.3s] MAYA (Cool): \"There is now.\"\n[+005.1s] <CAMERA> Close-up on Ethan, dropping his pen.\n[+005.3s] ETHAN (Shocked): \"Maya?\"\n[+006.5s] <CAMERA> Close-up on Victoria, furious.\n[+006.7s] VICTORIA (Furious): \"Security! Get this thief out of here!\"\n[+009.9s] <CAMERA> Medium shot of Mr. Hale placing the will on the table.\n[+010.1s] MR. HALE (Firm): \"She's not a thief. She is Richard Sterling's granddaughter. And the majority owner.\"\n[+015.5s] <CAMERA> Wide shot of board members murmuring and exchanging looks.\n[+015.7s] <SFX> Rising murmur of voices.\n[+017.6s] <CAMERA> Medium shot of Maya laying her phone on the glass table.\n[+017.8s] MAYA (Icy): \"And since we're talking about thieves...\"\n[+020.6s] ETHAN (On Recording, Laughing): \"The maid stole it. Case closed.\"\n[+023.5s] <CAMERA> Close-up on Ethan, all color draining from his face.\n[+025.5s] <CAMERA> Close-up on Maya, staring at Victoria.\n[+025.7s] MAYA (Icy): \"Victoria Sterling. You're fired. Get out of my hotel.\"\n[+029.6s] <CAMERA> Close-up on Victoria, shaking.\n[+029.8s] VICTORIA (Desperate): \"You can't do this to me!\"\n[+032.7s] <CAMERA> Close-up on Maya.\n[+032.9s] MAYA (Calm): \"I just did.\"\n[+034.7s] <CAMERA> Wide shot of the empty boardroom; Maya stands alone at the window.\n[+034.9s] <ACTION> The door opens behind her and Ethan slips in.\n[+037.4s] <CAMERA> Medium shot of Ethan approaching.\n[+037.6s] ETHAN (Pleading): \"Maya, she made me do it. I still love you.\"\n[+041.9s] <CAMERA> Close-up on Maya, not turning around.\n[+042.1s] MAYA (Flat): \"You loved my hotel.\"\n[+044.2s] <CAMERA> Close-up on Ethan, his face turning bitter.\n[+044.4s] ETHAN (Bitter, Low): \"You think you won? Ask Hale how your grandfather really died.\"\n[+049.1s] <CAMERA> Medium shot as Maya turns slowly from the window.\n[+049.3s] MAYA (Shaken): \"What did you say?\"\n[+051.4s] <CAMERA> Close-up on Ethan.\n[+051.6s] ETHAN (Quiet, Menacing): \"Richard Sterling didn't die of a heart attack. And the person who killed him is in this building.\""
+  }
+]

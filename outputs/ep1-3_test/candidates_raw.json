@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Betrayal at the Altar",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B010",
+        "end_beat": "E01-B030"
+      }
+    ],
+    "hook_beat": "E01-B010",
+    "cliffhanger_beat": "E01-B030",
+    "hook": "Juliana declares, \"Gerald is waiting for me.\"",
+    "cliffhanger": "Juliana shouts, \"You knew this before I walked through those doors!\"",
+    "why": "Starts with hopeful love, flips to raw accusation, leaving the audience hanging on Juliana's revelation.",
+    "self_score": 9,
+    "cid": "E01-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Cold Change, Burning Resolve",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B039",
+        "end_beat": "E01-B047"
+      },
+      {
+        "episode": 1,
+        "start_beat": "E01-B087",
+        "end_beat": "E01-B093"
+      }
+    ],
+    "hook_beat": "E01-B039",
+    "cliffhanger_beat": "E01-B093",
+    "hook": "The former groom coldly declares, \"I changed my mind.\"",
+    "cliffhanger": "A tense string drone swells as Juliana clenches her fist, hinting at a violent comeback.",
+    "why": "Hook delivers a shocking betrayal line; the cut to Juliana\u2019s clenched fist and ominous music leaves the conflict unresolved and tantalizing.",
+    "self_score": 8,
+    "cid": "E01-P2",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Betrayal Question",
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B000",
+        "end_beat": "E02-B018"
+      }
+    ],
+    "hook_beat": "E02-B000",
+    "cliffhanger_beat": "E02-B018",
+    "hook": "I cannot marry you, Juliana.",
+    "cliffhanger": "A better choice? Is that what she is?",
+    "why": "Opens with the shocking rejection, then cuts on Juliana\u2019s anguished question, leaving viewers desperate to see Gerald\u2019s answer.",
+    "self_score": 9,
+    "cid": "E02-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Defiant Ultimatum",
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B054",
+        "end_beat": "E02-B072"
+      }
+    ],
+    "hook_beat": "E02-B054",
+    "cliffhanger_beat": "E02-B072",
+    "hook": "Dignity?",
+    "cliffhanger": "...but I will not leave it believing I was the one who should be ashamed.",
+    "why": "Starts with Juliana\u2019s bitter retort, builds through her powerful speech, and ends on a defiant promise that begs to know her next move.",
+    "self_score": 8,
+    "cid": "E02-P2",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Blade to Ring",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B069",
+        "end_beat": "E03-B115"
+      }
+    ],
+    "hook_beat": "E03-B069",
+    "cliffhanger_beat": "E03-B115",
+    "hook": "The Bearded Stranger delivers a bone\u2011crushing punch, dropping the guard to the stone floor.",
+    "cliffhanger": "He kneels, offering a ring and says, \u201cLady Juliana\u2026 accept my hand.\u201d",
+    "why": "Starts with a shocking violent rescue, builds tension with the stranger\u2019s protective dialogue, and ends on a dramatic marriage proposal that leaves viewers craving Juliana\u2019s answer.",
+    "self_score": 9,
+    "cid": "E03-P1",
+    "source": "episode",
+    "attempts": 0
+  },
+  {
+    "title": "Command & Promise",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B058",
+        "end_beat": "E03-B100"
+      }
+    ],
+    "hook_beat": "E03-B058",
+    "cliffhanger_beat": "E03-B100",
+    "hook": "The mysterious bearded stranger steps into the aisle and commands, \u201cTake your hands off her.\u201d",
+    "cliffhanger": "He tells Juliana, \u201cYou came here to become a wife,\u201d hinting at a bold offer.",
+    "why": "Immediate power play grabs attention, the stranger\u2019s calm interrogation escalates, culminating in a tantalizing promise of marriage that teases the central romance.",
+    "self_score": 8,
+    "cid": "E03-P2",
+    "source": "episode",
+    "attempts": 0
+  }
+]

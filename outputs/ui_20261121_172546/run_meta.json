@@ -1,0 +1,31 @@
+{
+  "show": "tmpfubiq4c_",
+  "models": {
+    "finder": "groq:openai/gpt-oss-120b",
+    "judge": "groq:openai/gpt-oss-120b"
+  },
+  "prompt_version": "v1",
+  "seconds": 61.87289595603943,
+  "counts": {
+    "episodes": 3,
+    "candidates": 6,
+    "ranked": 3,
+    "rejected": 3,
+    "failures": 0,
+    "first_pass_valid_rate": "100%",
+    "refine_rounds": 0
+  },
+  "tokens": {
+    "openai/gpt-oss-120b": {
+      "output_tokens": 5235,
+      "total_tokens": 12882,
+      "input_token_details": {
+        "cache_read": 1024
+      },
+      "input_tokens": 7647,
+      "output_token_details": {
+        "reasoning": 3729
+      }
+    }
+  }
+}

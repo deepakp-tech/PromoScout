@@ -1,0 +1,224 @@
+[
+  {
+    "rank": 1,
+    "post_first": true,
+    "score": 79.0,
+    "cid": "E01-P2",
+    "source": "episode",
+    "title": "Cold Change, Burning Resolve",
+    "duration": 21.0,
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B039",
+        "end_beat": "E01-B047",
+        "start": 60.1,
+        "end": 72.1,
+        "start_ts": "01:00.10",
+        "end_ts": "01:12.10"
+      },
+      {
+        "episode": 1,
+        "start_beat": "E01-B087",
+        "end_beat": "E01-B093",
+        "start": 128.5,
+        "end": 137.5,
+        "start_ts": "02:08.50",
+        "end_ts": "02:17.50"
+      }
+    ],
+    "hook": "The former groom coldly declares, \"I changed my mind.\"",
+    "cliffhanger": "A tense string drone swells as Juliana clenches her fist, hinting at a violent comeback.",
+    "why": "Hook delivers a shocking betrayal line; the cut to Juliana\u2019s clenched fist and ominous music leaves the conflict unresolved and tantalizing.",
+    "rank_reason": "hook 7/10, cliffhanger 8/10, standalone 7/10; from ep 1 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 7,
+      "cliffhanger_score": 8,
+      "standalone_score": 7,
+      "spoiler_risk": 2,
+      "verdict": "post",
+      "issues": [
+        "Opening line, while betrayful, lacks the visceral shock of a slap or scream; may not instantly halt scrolling.",
+        "Introduction of Clarissa in the second half adds a character the viewer hasn't seen, risking brief confusion.",
+        "The line \"...when Clarissa is the true jewel of the county\" hints at a subplot that could feel out\u2011of\u2011context for a newcomer."
+      ]
+    },
+    "hook_beat": "E01-B039",
+    "cliffhanger_beat": "E01-B093",
+    "self_score": 8,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] THE FORMER GROOM (Cold, Callous): \"I changed my mind.\"\n[+000.0s] <CAMERA> Tight close-up on Gerald's hardened profile as he glances down.\n[+002.9s] <CAMERA> Extreme close-up on Juliana's furious, weeping face.\n[+003.3s] LADY JULIANA (Betrayed, Piercing): \"You swore you loved me!\"\n[+005.9s] <CAMERA> Close-up on the Lady in Gold Gown smiling condescendingly.\n[+006.4s] LADY IN GOLD GOWN (Mocking): \"People change their minds, sister.\"\n[+008.7s] <CAMERA> Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice.\n[+009.0s] LADY JULIANA (Horrified): \"And you knew?\"\n[+010.5s] LADY IN GOLD GOWN (Unapologetic, Cheerful): \"Of course I knew.\"\n--- CUT ---\n[+012.0s] THE FORMER GROOM (Reverent toward Clarissa): \"...when Clarissa is the true jewel of the county.\"\n[+012.0s] <CAMERA> Close-up on Clarissa's radiant, conceited smile basking in Gerald's words.\n[+014.8s] <ACTION> Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.\n[+014.8s] <CAMERA> Tight insert on Juliana's white-knuckled hand clutching the gown fabric.\n[+017.3s] <ACTION> Juliana breathes through the agony, refusing to break down further in front of the congregation.\n[+017.3s] <CAMERA> Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance.\n[+018.5s] <SFX> Solemn low-pitched string drone swells to an ominous cliffhanger peak."
+  },
+  {
+    "rank": 2,
+    "post_first": true,
+    "score": 75.0,
+    "cid": "E03-P1",
+    "source": "episode",
+    "title": "Blade to Ring",
+    "duration": 56.3,
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B069",
+        "end_beat": "E03-B115",
+        "start": 84.0,
+        "end": 140.3,
+        "start_ts": "01:24.00",
+        "end_ts": "02:20.30"
+      }
+    ],
+    "hook": "The Bearded Stranger delivers a bone\u2011crushing punch, dropping the guard to the stone floor.",
+    "cliffhanger": "He kneels, offering a ring and says, \u201cLady Juliana\u2026 accept my hand.\u201d",
+    "why": "Starts with a shocking violent rescue, builds tension with the stranger\u2019s protective dialogue, and ends on a dramatic marriage proposal that leaves viewers craving Juliana\u2019s answer.",
+    "rank_reason": "hook 8/10, cliffhanger 8/10, standalone 6/10; from ep 3 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 8,
+      "cliffhanger_score": 8,
+      "standalone_score": 6,
+      "spoiler_risk": 2,
+      "verdict": "post",
+      "issues": [
+        "The opening action, while visually striking, lasts a full second before dialogue, risking a slight delay before the hook fully lands.",
+        "The clip is 56 seconds, near the upper limit; tighter editing could heighten urgency.",
+        "Some character titles (Former Groom, Noble Matriarch) appear without context, which may momentarily confuse a viewer unfamiliar with the setting."
+      ]
+    },
+    "hook_beat": "E03-B069",
+    "cliffhanger_beat": "E03-B115",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] <ACTION> The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.\n[+000.0s] <CAMERA> Medium action shot as the guard charges toward The Bearded Stranger.\n[+000.5s] <SFX> A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.\n[+001.5s] <CAMERA> Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking.\n[+001.6s] THE FORMER GROOM (Frantic, Shouting): \"What are you waiting for?! He's only one man!\"\n[+004.1s] <CAMERA> Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana.\n[+005.3s] <CAMERA> Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness.\n[+006.4s] THE BEARDED STRANGER (Gentle, Protective): \"Are you hurt?\"\n[+007.7s] <CAMERA> Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder.\n[+007.8s] <ACTION> Juliana softly shakes her head 'no', her wide blue eyes locked onto him.\n[+010.0s] <CAMERA> Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard.\n[+010.1s] THE BEARDED STRANGER (Firm, Menacing): \"Good. Then don't touch her again.\"\n[+012.5s] NOBLE MATRIARCH (Furious, Hysterical): \"You cannot interfere in a family matter!\"\n[+012.5s] <CAMERA> Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps.\n[+014.4s] <CAMERA> Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt.\n[+014.8s] THE BEARDED STRANGER (O.S., Deep, Resonant): \"I can...\"\n[+016.8s] THE BEARDED STRANGER (O.S., Stern, Accusing): \"...when your family is dragging a defenseless woman from a church.\"\n[+016.8s] <CAMERA> Medium shot of guests in the pews whispering and reacting in hushed shock.\n[+019.0s] <CAMERA> Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window.\n[+020.2s] THE BEARDED STRANGER (Solemn, Gentle): \"You shouldn't have to beg anybody...\"\n[+021.9s] <CAMERA> Close-up on Juliana looking up into his eyes, moved to the core.\n[+023.4s] THE BEARDED STRANGER (O.S., Affirming, Sincere): \"...to remember your worth.\"\n[+024.8s] <CAMERA> Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence.\n[+026.8s] <CAMERA> Close-up on Juliana, her lips parting in quiet astonishment.\n[+026.9s] LADY JULIANA (Whispering, Bewildered): \"Why are you doing this?\"\n[+028.5s] <CAMERA> Close-up on The Bearded Stranger, completely unfazed.\n[+028.8s] THE BEARDED STRANGER (Simple, Certain): \"Because I want to.\"\n[+030.2s] <CAMERA> Close-up on Juliana's father wringing his gold ring, eyes heavy with regret.\n[+032.0s] <CAMERA> Medium shot on The Bearded Stranger slipping his hand into his coat pocket.\n[+033.9s] <CAMERA> Close-up of Juliana watching him with rapt, trembling anticipation.\n[+035.2s] <CAMERA> Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band.\n[+035.8s] THE BEARDED STRANGER (O.S., Honorable, Earnest): \"You came here to become a wife.\"\n[+037.0s] <CAMERA> Medium shot on The Bearded Stranger extending the ring toward Juliana.\n[+038.5s] THE BEARDED STRANGER (Quiet, Resolute): \"They took that from you.\"\n[+039.2s] <CAMERA> Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle.\n[+041.1s] <CAMERA> Medium close-up on The Bearded Stranger presenting the ring directly to Juliana.\n[+041.3s] THE BEARDED STRANGER (Earnest, Sincere): \"I am offering it back.\"\n[+043.4s] <CAMERA> Close-up on Juliana glancing down at the ring, breathless and overwhelmed.\n[+043.7s] LADY JULIANA (Soft, Hesitant): \"You don't even know me.\"\n[+046.2s] <CAMERA> Close-up on The Bearded Stranger's warm, piercing gaze.\n[+046.4s] THE BEARDED STRANGER (Quiet, Steady): \"I know enough.\"\n[+048.7s] <CAMERA> Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana.\n[+049.2s] <ACTION> The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana.\n[+050.8s] <SFX> A collective, stunned gasp rippling across the entire congregation.\n[+051.5s] <CAMERA> Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment.\n[+053.3s] <CAMERA> Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity.\n[+053.5s] THE BEARDED STRANGER (Solemn, Devoted): \"Lady Juliana... accept my hand.\""
+  },
+  {
+    "rank": 3,
+    "post_first": true,
+    "score": 71.0,
+    "cid": "E02-P1",
+    "source": "episode",
+    "title": "Betrayal Question",
+    "duration": 27.4,
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B000",
+        "end_beat": "E02-B018",
+        "start": 0.0,
+        "end": 27.4,
+        "start_ts": "00:00.00",
+        "end_ts": "00:27.40"
+      }
+    ],
+    "hook": "I cannot marry you, Juliana.",
+    "cliffhanger": "A better choice? Is that what she is?",
+    "why": "Opens with the shocking rejection, then cuts on Juliana\u2019s anguished question, leaving viewers desperate to see Gerald\u2019s answer.",
+    "rank_reason": "hook 7/10, cliffhanger 7/10, standalone 6/10; from ep 2 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 7,
+      "cliffhanger_score": 7,
+      "standalone_score": 6,
+      "spoiler_risk": 2,
+      "verdict": "maybe",
+      "issues": [
+        "Opens with dialogue only; no immediate visual shock or movement to grab scrolling thumb.",
+        "The label \"THE FORMER GROOM\" is confusing without context; viewers may wonder why \"former\" if the ceremony is ongoing.",
+        "The clip leans heavily on exposition; a stronger visual cue (e.g., a gasp, a gasp, a slammed object) would reinforce the hook.",
+        "At 27 seconds it approaches the upper limit for a promo; could be trimmed to keep pacing tighter."
+      ]
+    },
+    "hook_beat": "E02-B000",
+    "cliffhanger_beat": "E02-B018",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] THE FORMER GROOM (Cold, Callous): \"I cannot marry you, Juliana.\"\n[+000.0s] <CAMERA> Medium low-angle shot on Gerald at the altar steps, looking down dismissively, while Clarissa in her shimmering gold gown stands behind him gloating.\n[+002.8s] <ACTION> Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.\n[+002.8s] <CAMERA> Medium close-up on Juliana trembling in disbelief, her hands clasped tightly to her chest.\n[+004.6s] <CAMERA> Medium shot returning to Gerald, sneering down at Juliana.\n[+004.7s] THE FORMER GROOM (Cruel, Derisive): \"You are far too plain...\"\n[+006.6s] <CAMERA> Close-up on Juliana's tear-streaked face, crushed under his biting words.\n[+006.8s] THE FORMER GROOM (Off-screen, Dismissive): \"...far too silent...\"\n[+009.5s] <CAMERA> Medium shot on Gerald turning slightly toward Clarissa as she smiles admiringly at him.\n[+009.6s] THE FORMER GROOM (Arrogant, Conceited): \"...and completely beneath the future I deserve.\"\n[+012.0s] <CAMERA> Wide shot down the aisle as Juliana takes an agonizing step forward toward the altar, extending a trembling hand.\n[+012.4s] LADY JULIANA (Desperate, Pleading): \"Gerald... Look at me.\"\n[+015.8s] <CAMERA> Close-up on Gerald's cold, merciless face staring ahead unblinkingly.\n[+018.0s] <CAMERA> Tight insert on Juliana's hand clutching the heirloom amethyst pendant resting against her gown.\n[+018.2s] LADY JULIANA (Trembling, Betrayed): \"You gave me your word before both our families.\"\n[+020.7s] <CAMERA> Medium two-shot of Gerald and Clarissa standing side by side before the priest.\n[+020.9s] THE FORMER GROOM (Indifferent, Unapologetic): \"Promises change when a better choice appears.\"\n[+023.8s] <CAMERA> Medium close-up on Juliana clutching her chest, her voice quivering with disbelief.\n[+024.0s] LADY JULIANA (Shattered, Disbelieving): \"A better choice? Is that what she is?\""
+  },
+  {
+    "rank": 4,
+    "post_first": true,
+    "score": 66.5,
+    "cid": "E01-P1",
+    "source": "episode",
+    "title": "Betrayal at the Altar",
+    "duration": 34.5,
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B010",
+        "end_beat": "E01-B030",
+        "start": 15.5,
+        "end": 50.0,
+        "start_ts": "00:15.50",
+        "end_ts": "00:50.00"
+      }
+    ],
+    "hook": "Juliana declares, \"Gerald is waiting for me.\"",
+    "cliffhanger": "Juliana shouts, \"You knew this before I walked through those doors!\"",
+    "why": "Starts with hopeful love, flips to raw accusation, leaving the audience hanging on Juliana's revelation.",
+    "rank_reason": "hook 4/10, cliffhanger 8/10, standalone 7/10; from ep 1 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 4,
+      "cliffhanger_score": 8,
+      "standalone_score": 7,
+      "spoiler_risk": 4,
+      "verdict": "maybe",
+      "issues": [
+        "Opening line is a calm statement rather than a shocking visual or verbal hook; lacks immediate attention-grabbing impact.",
+        "First three seconds are dialogue without a striking visual cue (no slap, scream, or sudden action).",
+        "Clip runs 34 seconds with multiple camera setups; could be tighter to keep pacing for TikTok/Reels.",
+        "While the betrayal is clear, the relationship between Juliana, Gerald, and the Lady in Gold Gown may need a moment of visual context for complete strangers."
+      ]
+    },
+    "hook_beat": "E01-B010",
+    "cliffhanger_beat": "E01-B030",
+    "self_score": 9,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] LADY JULIANA (Desperate, Unbelieving): \"Gerald is waiting for me.\"\n[+002.3s] <CAMERA> Close-up on the Matriarch wearing an ornate tiara and sapphire jewelry, gazing down with merciless disdain.\n[+002.5s] MATRIARCH (Blunt, Unforgiving): \"Not anymore.\"\n[+005.0s] <CAMERA> Close-up on Juliana's stricken face as the weight of the words sinks in.\n[+006.3s] LADY JULIANA (Trembling, Pleading): \"What do you mean?\"\n[+008.1s] <CAMERA> Medium shot of the Matriarch gesturing dismissively toward the altar.\n[+008.3s] MATRIARCH (Dismissive): \"Look for yourself.\"\n[+010.1s] <ACTION> Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock.\n[+010.3s] <CAMERA> Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle.\n[+014.3s] <CAMERA> Panning shot across the seated wedding guests whispering and casting judging glances from the wooden pews.\n[+017.3s] <CAMERA> Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar.\n[+018.2s] <CAMERA> Close-up on Juliana's trembling lips and shocked, tearful blue eyes.\n[+018.3s] LADY JULIANA (Shaken, Whispering): \"Gerald?\"\n[+019.9s] LADY JULIANA (Heartbroken): \"Why are you holding her hand?\"\n[+021.0s] <CAMERA> Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown.\n[+023.5s] <CAMERA> Close-up on the Lady in Gold Gown beaming with cruel triumph.\n[+023.6s] LADY IN GOLD GOWN (Gloating, Smug): \"Because he is marrying me.\"\n[+026.0s] <CAMERA> Close-up on Juliana as tears spill over her eyelashes.\n[+026.2s] LADY JULIANA (Gasping, Devastated): \"No...\"\n[+028.4s] <CAMERA> Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister.\n[+031.3s] LADY JULIANA (Outraged, Accusing): \"You knew this before I walked through those doors!\""
+  },
+  {
+    "rank": 5,
+    "post_first": true,
+    "score": 52.0,
+    "cid": "E02-P2",
+    "source": "episode",
+    "title": "Defiant Ultimatum",
+    "duration": 33.0,
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B054",
+        "end_beat": "E02-B072",
+        "start": 74.4,
+        "end": 107.4,
+        "start_ts": "01:14.40",
+        "end_ts": "01:47.40"
+      }
+    ],
+    "hook": "Dignity?",
+    "cliffhanger": "...but I will not leave it believing I was the one who should be ashamed.",
+    "why": "Starts with Juliana\u2019s bitter retort, builds through her powerful speech, and ends on a defiant promise that begs to know her next move.",
+    "rank_reason": "hook 4/10, cliffhanger 3/10, standalone 7/10; from ep 2 - early episode, so new viewers land at the start of the story",
+    "judge": {
+      "hook_score": 4,
+      "cliffhanger_score": 3,
+      "standalone_score": 7,
+      "spoiler_risk": 1,
+      "verdict": "maybe",
+      "issues": [
+        "Hook opens with a single word question and static shot; lacks immediate visual or shocking action to stop scrolling.",
+        "Cliffhanger is a declarative line rather than an unresolved moment; no clear tension or question left hanging.",
+        "First few seconds are dialogue\u2011heavy without a striking visual cue, making it less attention\u2011grabbing.",
+        "While the scene is understandable, it relies on knowing who Gerald is and why marriage matters, which may be vague to a new viewer."
+      ]
+    },
+    "hook_beat": "E02-B054",
+    "cliffhanger_beat": "E02-B072",
+    "self_score": 8,
+    "attempts": 0,
+    "previous_errors": null,
+    "clip_text": "[+000.0s] LADY JULIANA (Bitter, Defiant): \"Dignity?\"\n[+002.1s] LADY JULIANA (Clear, Accusing): \"You abandoned a woman who trusted you...\"\n[+002.1s] <CAMERA> Full shot of Juliana standing tall, her posture completely transforming into regal composure before the seated guests.\n[+004.6s] <CAMERA> Medium profile close-up on Gerald's hardening jawline, Clarissa blurred in the background.\n[+004.8s] LADY JULIANA (Off-screen, Sharp, Piercing): \"...because another woman promised you greater beauty and wealth.\"\n[+007.4s] <CAMERA> Closer angle on Gerald's uneasy expression as Juliana's voice commands the room.\n[+008.4s] <CAMERA> Medium wide shot framing Juliana confronting Gerald from the foot of the altar stairs.\n[+008.6s] LADY JULIANA (Steely, Resolute): \"Do not mistake my heartbreak for your victory, Gerald.\"\n[+012.3s] <CAMERA> Medium close-up push-in on Juliana, her blue eyes shining with fierce conviction.\n[+012.4s] LADY JULIANA (Powerful, Unyielding): \"You wanted this entire chapel to believe that I was not worthy of you. But you have shown them something far more valuable.\"\n[+016.4s] <CAMERA> Medium profile on Juliana looking up at Gerald, holding the entire hall spellbound.\n[+018.8s] <CAMERA> Close-up on Juliana's face, calm, dignified, and unwavering.\n[+019.0s] LADY JULIANA (Decisive, Scathing): \"You have shown them exactly what your word is worth.\"\n[+022.4s] <CAMERA> Medium shot on Gerald standing frozen on the altar steps, stunned and speechless under her public rebuke.\n[+023.8s] <ACTION> Juliana lifts her chin high, commanding the space with unassailable dignity.\n[+023.8s] <CAMERA> Low-angle wide shot of the grand cathedral nave, framing Juliana in pristine white at the center of the vaulted aisle.\n[+024.1s] LADY JULIANA (Resolute, Proud): \"I may leave this chapel without a husband...\"\n[+028.4s] <CAMERA> Dramatic medium close-up holding steadily on Juliana's radiant, proud face as she delivers her final proclamation.\n[+028.6s] LADY JULIANA (Defiant, Triumphant in Spirit): \"...but I will not leave it believing I was the one who should be ashamed.\""
+  }
+]

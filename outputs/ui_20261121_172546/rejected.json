@@ -1,0 +1,56 @@
+[
+  {
+    "cid": "E01-P2",
+    "title": "Shattered Truth",
+    "segments": [
+      {
+        "episode": 1,
+        "start_beat": "E01-B000",
+        "end_beat": "E01-B014",
+        "start": 0.0,
+        "end": 42.7,
+        "start_ts": "00:00.00",
+        "end_ts": "00:42.70"
+      }
+    ],
+    "duration": 42.7,
+    "errors": [],
+    "reject_reason": "duplicate of E01-P1"
+  },
+  {
+    "cid": "E02-P2",
+    "title": "Contract Offer Shock",
+    "segments": [
+      {
+        "episode": 2,
+        "start_beat": "E02-B007",
+        "end_beat": "E02-B014",
+        "start": 22.6,
+        "end": 46.2,
+        "start_ts": "00:22.60",
+        "end_ts": "00:46.20"
+      }
+    ],
+    "duration": 23.6,
+    "errors": [],
+    "reject_reason": "duplicate of E02-P1"
+  },
+  {
+    "cid": "E03-P2",
+    "title": "Mask Threat & Scar Secret",
+    "segments": [
+      {
+        "episode": 3,
+        "start_beat": "E03-B004",
+        "end_beat": "E03-B014",
+        "start": 12.2,
+        "end": 43.2,
+        "start_ts": "00:12.20",
+        "end_ts": "00:43.20"
+      }
+    ],
+    "duration": 31.0,
+    "errors": [],
+    "reject_reason": "duplicate of E03-P1"
+  }
+]
